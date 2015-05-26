@@ -7,3 +7,4 @@
 + Roy T. Fielding and Richard N. Taylor. 2002. [Principled design of the modern Web architecture](https://www.ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf). ACM Trans. Internet Technol. 2, 2 (May 2002), 115-150.
 + Gediminas Adomavicius and Alexander Tuzhilin. 2005. [Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf). IEEE Trans. on Knowl. and Data Eng. 17, 6 (June 2005), 734-749.
 + Jeffrey Dean and Sanjay Ghemawat. 2008. [MapReduce: simplified data processing on large clusters](http://static.googleusercontent.com/media/research.google.com/pt-BR//archive/mapreduce-osdi04.pdf). Commun. ACM 51, 1 (January 2008), 107-113.
++ Edwin Olson. 2007. [Robust Dictionary Attack of Short Simple Substitution Ciphers.](http://april.eecs.umich.edu/pdfs/olson2007crypt.pdf) MIT. Cambridge, MA.
