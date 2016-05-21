@@ -20,8 +20,12 @@
 
 #### Software Architecture
 
+##### REST
 + Roy Thomas Fielding. 2000. [Architectural Styles and the Design of Network-Based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm). Ph.D. Dissertation. University of California, Irvine.
 + Roy T. Fielding and Richard N. Taylor. 2002. [Principled design of the modern Web architecture](https://www.ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf). ACM Trans. Internet Technol. 2, 2 (May 2002), 115-150.
+
+##### MVC
++ Glenn E. Krasner and Stephen T. Pope. 1988. [A cookbook for using the model-view controller user interface paradigm in Smalltalk-80](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/Krasner-JOOP88.pdf). J. Object Oriented Program. 1, 3 (August 1988), 26-49.
 
 ## Security
 
