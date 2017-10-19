@@ -31,6 +31,7 @@
 
 + Ken Thompson. 1984. [Reflections on trusting trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf). Commun. ACM 27, 8 (August 1984), 761-763
 + Edwin Olson. 2007. [Robust Dictionary Attack of Short Simple Substitution Ciphers.](http://april.eecs.umich.edu/pdfs/olson2007crypt.pdf) MIT. Cambridge, MA.
++ Mathy Vanhoef and Frank Piessens. 2017. [Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2](https://papers.mathyvanhoef.com/ccs2017.pdf). Links: ([KRACK Attack](https://www.krackattacks.com))
 
 ## Parallel Computing
 
