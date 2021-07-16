@@ -1,6 +1,10 @@
 # Papers
 > Articles, Scientific Papers, Dissertations and Thesis
 
+## Mathematics
+
+- A.M. Turing. 1937. [On Computable Numbers, with an Application to the Entscheidungsproblem.](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
+
 ## Machine Learning
 
 #### Imbalance Datasets
