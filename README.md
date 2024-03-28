@@ -16,6 +16,10 @@
 
 + Gediminas Adomavicius and Alexander Tuzhilin. 2005. [Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf). IEEE Trans. on Knowl. and Data Eng. 17, 6 (June 2005), 734-749.
 
+#### Deep Learning
+
++ Ashish Vaswani et all. 2017. [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
 ## Software Engineering
 
 #### Modularity
