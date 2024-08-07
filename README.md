@@ -28,6 +28,9 @@
 
 #### Software Architecture
 
+##### ServiceWeaver
++ Ghemawat S, Grandl R, Petrovic S, et al. [Towards modern development of cloud applications](https://dl.acm.org/doi/pdf/10.1145/3593856.3595909). In: Schwarzkopf M, Baumann A, Crooks N, eds. Proceedings of the 19th Workshop on Hot Topics in Operating Systems. ACM; 2023: 110-117.
+
 ##### REST
 + Roy Thomas Fielding. 2000. [Architectural Styles and the Design of Network-Based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm). Ph.D. Dissertation. University of California, Irvine.
 + Roy T. Fielding and Richard N. Taylor. 2002. [Principled design of the modern Web architecture](https://www.ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf). ACM Trans. Internet Technol. 2, 2 (May 2002), 115-150.
