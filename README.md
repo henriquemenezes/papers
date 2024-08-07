@@ -28,7 +28,7 @@
 
 #### Software Architecture
 
-##### ServiceWeaver
+##### [Service Weaver](https://serviceweaver.dev/)
 + Ghemawat S, Grandl R, Petrovic S, et al. [Towards modern development of cloud applications](https://dl.acm.org/doi/pdf/10.1145/3593856.3595909). In: Schwarzkopf M, Baumann A, Crooks N, eds. Proceedings of the 19th Workshop on Hot Topics in Operating Systems. ACM; 2023: 110-117.
 
 ##### REST
