@@ -36,7 +36,13 @@
 + Roy T. Fielding and Richard N. Taylor. 2002. [Principled design of the modern Web architecture](https://www.ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf). ACM Trans. Internet Technol. 2, 2 (May 2002), 115-150.
 
 ##### MVC
+
 + Glenn E. Krasner and Stephen T. Pope. 1988. [A cookbook for using the model-view controller user interface paradigm in Smalltalk-80](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/Krasner-JOOP88.pdf). J. Object Oriented Program. 1, 3 (August 1988), 26-49.
+
+## Crypto Currency
+
++ Satoshi Nakamoto. 2008. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
++ Adam Back. 2002. [Hashcash - A Denial of Service Counter-Measure](https://cdn.nakamotoinstitute.org/docs/hashcash.pdf)
 
 ## Security
 
