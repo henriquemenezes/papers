@@ -18,9 +18,13 @@
 
 #### Deep Learning
 
+##### LLM
+
+###### Transformer model
+
 + Ashish Vaswani et all. 2017. [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-#### RAG (Retrival-Augmented Generation)
+##### RAG (Retrival-Augmented Generation)
 
 + Yunfan Gao, Yun Xiong, et al. 2023. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
 + Patrick Lewis, et al. 2020. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.](https://arxiv.org/pdf/2005.11401)
